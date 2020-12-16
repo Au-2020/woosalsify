@@ -14,7 +14,7 @@
 if ( ! defined( 'ABSPATH' ) ) {
 	exit;
 }
-
+   
 define( 'SALSIFY_PLUGIN_URL', plugin_dir_url( __FILE__ ));
 define( 'SALSIFY_PLUGIN_PATH', plugin_dir_path(__FILE__));
 
